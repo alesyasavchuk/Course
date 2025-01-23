@@ -1,0 +1,12 @@
+№
+Author
+Date
+Summary
+Severity
+Priority
+Environment 
+Description
+Steps to reproduce
+Actual resalt
+Expected result
+Attachment
